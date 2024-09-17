@@ -25,7 +25,7 @@ html{
     /* height: 100%; */
 }
 body {
-    background-color: #d5e1ef;
+    background-color: #60cdc6;
     /* height: inherit; */
     main{
         /* height: inherit; */
@@ -41,7 +41,7 @@ body {
         width: 320px;
         border-radius: 20px;
         padding: 16px 16px 40px;
-        box-shadow: 3px 25px 25px rgba(0, 0, 0, 0,0.438383);
+        box-shadow: 0px 6px 20px rgb(10, 11, 11);
         height: 499px;
         img {
             box-shadow: 2px 15px 25px rgb(12, 11, 11);
